@@ -2,8 +2,8 @@
 
 Hello Everyone!
 
-This profile is the official *un-official* account for code created by the staff team on Pronouns.Page! To be more specific, this profile is ran by members of the staff team for Pronouns.Page.
+This organisation is the official *un-official* account for parts of our code, run by team members of Pronouns.Page.
 
 Most of our source code is not found on GitHub, but instead found on GitLab at <https://gitlab.com/PronounsPage>
 
-If you have any questions, feel free to reach out to us at <support@pronouns.page>.
+If you have any questions, feel free to reach out to us at <contact@pronouns.page>.
